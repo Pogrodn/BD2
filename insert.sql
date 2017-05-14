@@ -1,0 +1,1 @@
+-- Tutaj wrzucamy inserty do zapelnienia naszej bazy danymi
